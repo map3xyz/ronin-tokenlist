@@ -1,0 +1,62 @@
+{
+  "name": "@Map3/ronin-tokenlist",
+  "timestamp": "2022-08-18T13:25:23.418Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
+      "name": "Axie Infinity Shard",
+      "decimals": 18,
+      "symbol": "AXS",
+      "tags": []
+    },
+    {
+      "address": "0xa8754b9Fa15fc18BB59458815510E40a12cD2014",
+      "name": "Smooth Love Potion",
+      "decimals": 0,
+      "symbol": "SLP",
+      "tags": []
+    },
+    {
+      "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+      "name": "Ronin Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "tags": []
+    }
+  ]
+}

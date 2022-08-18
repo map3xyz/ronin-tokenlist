@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Axie Infinity Shards are Axie Infinity's governance token."
+  },
+  "id": "0364c82e-9f72-466b-9539-0f63bd4729a3",
+  "links": {
+    "explorer": "https://explorer.roninchain.com/token/0x97a9107C1793BC407d6F527b77e7fff4D812bece",
+    "research": "https://research.binance.com/en/projects/axie-infinity",
+    "website": "https://axieinfinity.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ronin-tokenlist/master/0x97a9107C1793BC407d6F527b77e7fff4D812bece/logo.png"
+  },
+  "name": "Axie Infinity Shard",
+  "networkCode": "ronin",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

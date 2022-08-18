@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bc5ae1f5-9871-4686-9ddc-b078e30fadc4",
+  "links": {
+    "explorer": "https://explorer.roninchain.com/token/0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+    "website": "https://weth.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/ronin-tokenlist/master/0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5/logo.png"
+  },
+  "name": "Ronin Wrapped Ether",
+  "networkCode": "ronin",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
