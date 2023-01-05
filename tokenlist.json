@@ -1,6 +1,6 @@
 {
   "name": "@Map3/ronin-tokenlist",
-  "timestamp": "2022-08-19T13:05:29.345Z",
+  "timestamp": "2023-01-05T14:58:42.010Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -37,6 +37,15 @@
   },
   "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
   "tokens": [
+    {
+      "address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "tags": [
+        "stablecoin"
+      ]
+    },
     {
       "address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
       "name": "Axie Infinity Shard",
